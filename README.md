@@ -11,13 +11,5 @@ The metrics include;
 - The daily % gross profit
 - The Price Elasticity of Demand during one of the promotional/special periods
 
-## 
-
-Dashboard content;
-- Total revenue
-- Daily revnue
-- Total sales
-- Revenue by day of week
-- Revenue by product category
-- Revenue by spend group
-- Total units sold
+## Tools used
+Databricks 
