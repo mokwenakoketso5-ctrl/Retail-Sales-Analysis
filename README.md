@@ -36,3 +36,6 @@ The dataset shows the daily trading information for the store, aggregated for th
 
 ## Visualisation
 A graph showing sales over time was plotted using Matplotlib and Plotly
+
+## Presenation
+A presentation with all the metrics derived and interpretations was made.
