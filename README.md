@@ -12,4 +12,27 @@ The metrics include;
 - The Price Elasticity of Demand during one of the promotional/special periods
 
 ## Tools used
-Databricks 
+Databricks (Python)
+- Pandas - Data loading, cleaning and analysis
+- Numpy - Mathematical operations
+- Matplotlib - Visualisation library
+- Plotly - For ploting graphs
+
+## Dataset
+File: Sales Case Study.csv
+
+The dataset shows the daily trading information for the store, aggregated for the day. The goal is to derive insightful metrics.
+
+- Date - The day on which sales occured
+- Sales - Total rand value of the sale that occured
+- Cost Of Sales - The total rand value of the cost of sale that occured
+- Quantity Sold	- Total number of units that hve been sold
+
+## Metrics derived
+- Daily sales price per unit
+- Average unit sales price of this product
+- Daily % gross profit
+- Price Elasticity of Demand
+
+## Visualisation
+A graph showing sales over time was plotted using Matplotlib and Plotly
